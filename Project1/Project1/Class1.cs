@@ -112,7 +112,6 @@ namespace Project1
             {
                 return Surname;
             }
-
             set
             {
                 if (value != null)
@@ -148,6 +147,7 @@ namespace Project1
             Console.WriteLine("Result partial class: \t");
         }
     }
+
     class Point
     {
         public int x, y;
@@ -309,7 +309,6 @@ namespace Project1
             Console.WriteLine(m1 == m4); // true
             Console.WriteLine(m1.GetHashCode()); // 456...
             Console.WriteLine(m2.GetHashCode()); // 411...
-            Console.ReadLine();
             
             //1.10.1)
             Dog m1_ = new Dog("Alaskan Malamute");
