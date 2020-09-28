@@ -1,0 +1,7 @@
+D:\Даник\2 курс\3 семестр\ООП\Лабы\3\Thilawor\Thilawor\bin\Debug\Thilawor.exe.config
+D:\Даник\2 курс\3 семестр\ООП\Лабы\3\Thilawor\Thilawor\bin\Debug\Thilawor.exe
+D:\Даник\2 курс\3 семестр\ООП\Лабы\3\Thilawor\Thilawor\bin\Debug\Thilawor.pdb
+D:\Даник\2 курс\3 семестр\ООП\Лабы\3\Thilawor\Thilawor\obj\Debug\Thilawor.csprojAssemblyReference.cache
+D:\Даник\2 курс\3 семестр\ООП\Лабы\3\Thilawor\Thilawor\obj\Debug\Thilawor.csproj.CoreCompileInputs.cache
+D:\Даник\2 курс\3 семестр\ООП\Лабы\3\Thilawor\Thilawor\obj\Debug\Thilawor.exe
+D:\Даник\2 курс\3 семестр\ООП\Лабы\3\Thilawor\Thilawor\obj\Debug\Thilawor.pdb
